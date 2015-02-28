@@ -18,12 +18,15 @@ Hadoop clusters with mrjob, and setting up continuous integration testing and de
 working with another developer. Also planned and developed further products with core overall 
 engineering team members.
 
+### [Rustbelt Americana - Brand Image/Design/Web Dev](http://www.rustbeltamericana.com)
+Maintain and manage the brand image/design, all web solutions, and we marketing.
+
 ### [David Wagner & Associates - Brand Image/Design/Web Dev](http://www.davidwagner.tv)
-Maintain the online brand image, site design, and functionality of the web presence of the agency
+Maintain and manage the online brand image, site design, and functionality of the web presence of the agency
 working closely with the core team.
 
 ### [Dawn Rao - Brand Image/Design/Web Dev](http://www.davidwagner.tv)
-I manage and maintain as well as design and deploy Dawn's agency's website and brand image working
+Maintain and Manage as well as design and deploy Dawn's agency's website and brand image working
 closely to ensure her partners have success through her. 
 
 ## Projects

@@ -18,6 +18,10 @@ Hadoop clusters with mrjob, and setting up continuous integration testing and de
 working with another developer. Also planned and developed further products with core overall 
 engineering team members.
 
+We later architected and implemented an entire ETL pipeline and API development framework using 
+Python, Posgresql, mapreduce, Redshift, and Mesos/Chronos with the data science team to handle 
+all API's utilizing this data and ensure constant availability of high-use tables.
+
 ### [Rustbelt Americana - Brand Image/Design/Web Dev](http://www.rustbeltamericana.com)
 Maintain and manage the brand image/design, all web solutions, and we marketing.
 

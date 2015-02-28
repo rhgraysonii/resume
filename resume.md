@@ -49,7 +49,7 @@ months.
 
 ### [From 0 to Warp Speed](https://medium.com/@_devbob/from­0­to­warp­speed­b780a2bc36ce )
 Optimizing linear algebra ops in NumPy to be 1000x faster with BLAS library changes by being 
-F­Contiguous over C­Contiguous in interpreting down python code. 
+F-Contiguous over C-Contiguous in interpreting down python code. 
 
 ### [Building An OCR Server](https://realpython.com/blog/python/setting-up-a-simple-ocr-server/)
 A simple guide that encompasses teaching skills ranging from basic Python and building REST 

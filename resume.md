@@ -61,3 +61,21 @@ development, test­driven development, and pair programming. Utilized Ruby on Ra
 and jQuery while testing with RSpec and Capybara. Project has since stopped being maintained by
 the repository owners.
 
+## Languages/Skills
+Ruby/Rails,
+AWS services/deployment,
+jQuery,
+TDD,
+Rspec,
+Python,
+Postgres/Redshift,
+Elastic MapReduce,
+py.test,
+Meteor.js,
+Heroku Deployment,
+Git,
+ETL,
+Rust,
+API Design,
+Ansible,
+Docker

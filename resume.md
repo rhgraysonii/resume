@@ -23,7 +23,7 @@ Python, Posgresql, mapreduce, Redshift, and Mesos/Chronos with the data science 
 all API's utilizing this data and ensure constant availability of high-use tables.
 
 ### [Rustbelt Americana - Brand Image/Design/Web Dev](http://www.rustbeltamericana.com)
-Maintain and manage the brand image/design, all web solutions, and we marketing.
+Maintain and manage the brand image/design, all web solutions, and web marketing.
 
 ### [David Wagner & Associates - Brand Image/Design/Web Dev](http://www.davidwagner.tv)
 Maintain and manage the online brand image, site design, and functionality of the web presence of the agency

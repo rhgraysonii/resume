@@ -36,33 +36,45 @@ closely to ensure her partners have success through her.
 ## Projects
 
 ### [Volt - Contributor](http://www.voltframework.com)
+*Architecture & Development*
+
 Volt is a reactive web framework that allows all client and server code to be written in Ruby.
 It makes isomorphic application development fun and approachable using Opal and a robust backend.
 I work on the framework itself, as well as all relevent documentation and tutorials. Currently
 we are gearing up for a 1.0 release, and actively finishing the last rounds of development.
 
 ### [Volt Tutorial Book](http://www.github.com/rhgraysonii/volt_tutorial)
+*Documentation & Technical Writing*
+
 I am writing a book that encompasses the core functionalities of the Volt framework in a system
 that is geared for anyone ranging from beginner to seasoned webdev, and ramps up in a logical
 progression. It currently is planned to officially coincide in release with 1.0 in the coming
 months.
 
 ### [From 0 to Warp Speed](https://medium.com/@_devbob/from­0­to­warp­speed­b780a2bc36ce )
+*Optimizations & Technical Writing*
+
 Optimizing linear algebra ops in NumPy to be 1000x faster with BLAS library changes by being 
 F-Contiguous over C-Contiguous in interpreting down python code. 
 
 ### [Building An OCR Server](https://realpython.com/blog/python/setting-up-a-simple-ocr-server/)
+*Frontent & Backend Design, Technical Writing*
+
 A simple guide that encompasses teaching skills ranging from basic Python and building REST 
 API’s, up to *nix core competencies such as using make, working with tarballs, using git, and 
 more. Was highlighted as a guest post on the [Real Python Blog](http://www.realpython.com)
 
 ### [Clojure: From Zero to Deploy](http://www.penflip.com/rhgraysonii/clojure_from_zero_to_deploy)
+*Technical Writing*
+
 Currently writing a book to teach web application development with Clojure. It is built on Penflip, 
 letting me collaborate with co­authors using Git­like branching. I am the author of the 
 majority of content while the others function as editors and organizers at the current time. 
 I have shifted writing concentration towards [Volt](http://www.voltframework.com)
 
 ### KBOO FM Mobile
+*Architecture & Development*
+
 Developed a mobile web app for KBOO FM as an intern. Worked on a team of 6 using agile 
 development, test­driven development, and pair programming. Utilized Ruby on Rails, JavaScript, 
 and jQuery while testing with RSpec and Capybara. Project has since stopped being maintained by

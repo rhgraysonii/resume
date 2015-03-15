@@ -1,4 +1,4 @@
-## Robert H Grayson II
+# Robert H Grayson II
 bobbygrayson@gmail.com | [@_devbob](link) | [Github](http://www.github.com/rhgraysonii)
 
 ## Experience

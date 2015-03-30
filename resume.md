@@ -1,5 +1,5 @@
 # Robert H Grayson II
-bobbygrayson@gmail.com | [Twitter](link) | [Github](http://www.github.com/rhgraysonii)
+bobbygrayson@gmail.com | [Twitter](http://www.twitter.com/yburyug) | [Github](http://www.github.com/rhgraysonii)
 
 ## Experience
 ### [Ahalogy - Full Stack Engineer, Data Engineer](http://www.ahalogy.com)
@@ -29,9 +29,10 @@ Maintain and manage the brand image/design, all web solutions, and web marketing
 Maintain and manage the online brand image, site design, and functionality of the web presence of the agency
 working closely with the core team.
 
-### [Dawn Rao - Brand Image/Design/Web Dev](http://www.davidwagner.tv)
+### [Dawn Rao - Brand Image/Design/Web Dev](deployment coming soon)
 Maintain and Manage as well as design and deploy Dawn's agency's website and brand image working
-closely to ensure her partners have success through her. 
+closely to ensure her partners have success through her. Has not launched yet as we are coordinating
+the new site design with other ventures.
 
 ## Projects
 

@@ -1,5 +1,5 @@
 # Robert H Grayson II
-bobbygrayson@gmail.com | [Twitter](http://www.twitter.com/yburyug) | [Github](http://www.github.com/rhgraysonii) | [Medium](http://www.medium.com/@_devbob]
+bobbygrayson@gmail.com | [Twitter](http://www.twitter.com/yburyug) | [Github](http://www.github.com/rhgraysonii) | [Medium](http://www.medium.com/@_devbob)
 
 ## Experience
 ### [Ahalogy - Full Stack Engineer, Data Engineer](http://www.ahalogy.com)
